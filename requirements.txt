@@ -6,6 +6,4 @@ peft
 scipy==1.10.1
 oss2
 annlite
-sentencepiece
-transformers==4.33.0
-torch==2.0.0
+requests
